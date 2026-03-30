@@ -1,7 +1,7 @@
 import telebot
 
 # Ganti 'TOKEN_KAMU' dengan token dari BotFather
-TOKEN = 'TOKEN_KAMU'
+TOKEN = '6440891289:AAFPyx0EDNbLxTMYFkAajc0C5dge3D97T8I'
 bot = telebot.TeleBot(TOKEN)
 
 # Menangani perintah /start dan /help
